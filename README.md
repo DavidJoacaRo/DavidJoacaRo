@@ -2,5 +2,3 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidjoacaro&repo=budget-backrooms&theme=codeSTACKr)](https://github.com/DavidJoacaRo/Budget-Backrooms)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DavidJoacaRo)
